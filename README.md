@@ -9,7 +9,8 @@ Infinite Energy, God Mode (Infinite HP), Infinite Gold, Zero Cost Cards, Unlock 
 
 *(Replace YOUR_USERNAME and YOUR_REPO with your actual GitHub repo details)*
 
-![Slay the Spire 2 Trainer Neon UI Showcase](https://via.placeholder.com/800x450/0f0f1a/00ff9f?text=Slay+the+Spire+2+Trainer+UI+2026)  
+![Slay the Spire 2 Trainer Neon UI Showcase]<img width="508" height="781" alt="image" src="https://github.com/user-attachments/assets/c58611cf-8782-4214-84e7-98141cd8298c" />
+
 *(Upload your real screenshot to repo /images/ folder and replace this link)*
 
 </div>
