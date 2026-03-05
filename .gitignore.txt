@@ -1,0 +1,54 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+*.psess
+*.vspx
+
+# Build artifacts
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+arm/
+arm64/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.iobj
+*.ipdb
+*.obj
+*.pch
+*.tlog
+*.log
+*.lastbuildstate
+*.cache
+bin/
+obj/
+build/
+out/
+
+# Игнорируем сам трейнер
+STS2Trainer.exe
+SlayTheSpire2Trainer.exe
+Trainer.exe
+Cheat.exe
+*.zip
+
+# Другие
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.vscode/
+.idea/
+*.bak
+*.tmp
