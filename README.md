@@ -12,7 +12,7 @@ Infinite Energy, God Mode (Infinite HP), Infinite Gold, Zero Cost Cards, Unlock 
 
 </div>
 
-Update 03.07.2026
+Update 03.10.2026
 
 ## 🔥 Slay the Spire 2 Cheats & Features (Early Access 2026)
 
